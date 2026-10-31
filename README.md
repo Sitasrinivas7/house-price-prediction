@@ -103,3 +103,8 @@ The saved pipeline includes preprocessing and the Random Forest regressor.
 * Perform hyperparameter tuning and cross-validation.
 * Evaluate performance across different price ranges and locations.
 * Test the model on unseen, representative property listings.
+
+  ## 🌐 Live Demo
+
+🏡 House Price Prediction – Live Application](https://house-price-prediction-pr.streamlit.app/
+
